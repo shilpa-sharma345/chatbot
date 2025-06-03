@@ -30,5 +30,5 @@ Add your Google Gemini API key:
 Open app.py and replace the line:
 GEMINI_API_KEY = "YOUR_API_KEY_HERE"
 
-▶️ How to Use
+▶️ How to Use :-
 python -m streamlit run chatbot.py
