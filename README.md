@@ -14,13 +14,13 @@ A Streamlit-based chatbot that uses **Google's Gemini AI** to answer questions a
 - Clean and interactive Streamlit UI
 
   ## Requirements
-streamlit
-PyPDF2
-langchain
-langchain-community
-langchain-google-genai
-faiss-cpu
-google-generativeai
+streamlit ,
+PyPDF2 ,
+langchain ,
+langchain-community ,
+langchain-google-genai ,
+faiss-cpu ,
+google-generativeai ,
 
 ## Install these requirements using :-
 pip install -r requirements.txt
